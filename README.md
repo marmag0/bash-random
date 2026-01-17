@@ -1,4 +1,4 @@
-# bash-scripts
+# bash-random
 
 ### Welcome to my repository
 
