@@ -2,7 +2,7 @@
 
 # Arguments can be passed to a script after its name
 # They are passed as $n, where n is the position after the script name
-# $0 indicates current script name
+# $0 indicates the current script name
 
 echo "Filename is: $0"
 echo "$1"

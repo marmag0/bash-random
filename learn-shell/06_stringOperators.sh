@@ -10,7 +10,7 @@ echo ${#STRING1}
 expr index "$STRING1" "$SUBSTRING"
 
 # Extracting a substring based on indexes
-# If LEN is ommited, it gets substring from POS to end of line
+# If LEN is omitted, it extracts the substring from POS to the end of the string
 POS=1
 LEN=3
 echo "${STRING:$POS:$LEN}"

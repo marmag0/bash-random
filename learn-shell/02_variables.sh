@@ -23,8 +23,8 @@ echo "${wtf_is_that}"
 # "" (double quotes) - for storing content which is evaluated at the time of assignment
 
 list=`ls -la`
-state1="Current file  system state: ${list}"
-state2='Current file  system state: ${list}'
+state1="Current file system state: ${list}"
+state2='Current file system state: ${list}'
 echo "${state1}"
 touch sth.txt
 echo "New file created!"

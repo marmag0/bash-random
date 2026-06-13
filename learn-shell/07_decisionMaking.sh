@@ -12,7 +12,7 @@ else
 fi
 
 
-# Numerci comparisons
+# Numeric comparisons
 #	comparison   	Evaluated to true when
 #	$a -lt $b    	$a < $b
 #	$a -gt $b    	$a > $b
@@ -28,6 +28,6 @@ fi
 #	"$a" != "$b"    $a is different from $b
 #	-z "$a"         $a is empty
 
-# Logical combinations - can be used inside double square braces [[]]
+# Logical combinations - can be used inside double square brackets [[]]
 # && - and
 # || - or

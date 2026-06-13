@@ -14,6 +14,6 @@ echo "$a % $b = $((a % b))"
 echo "$a ** $b = $((a ** b))"
 
 
-# Example of more complex calculation
+# Example of a more complex calculation
 # TOTAL=$((1*${COST_PINEAPPLE} + 2*${COST_BANANA} + 3*${COST_WATERMELON} + ${COST_BASKET}))
 
