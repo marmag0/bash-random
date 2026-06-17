@@ -1,6 +1,6 @@
 #! /opt/homebrew/bin/bash
 
-# Basic construction of function in Bash
+# Basic construction of a function in Bash
 
 function adder() {
 	echo "$(($1 + $2))"
